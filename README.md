@@ -43,6 +43,11 @@ This project includes:
 - Implemented various CSS properties, including color, background color, and typography, to practice styling.
 - Focused on using web-safe fonts and basic styling techniques to improve the visual appearance of the pages.
 
+### Phase 6: Improving Homepage Layout
+
+- Applied knowledge of the box model to enhance the layout and appearance of the `index.html` homepage.
+- Improved spacing, padding, and margins to create a more polished and visually appealing main page.
+
 ## Skills Learned and Applied
 
 ### HTML
@@ -55,6 +60,7 @@ This project includes:
 - **External CSS**: Practiced using external CSS to style HTML elements, improving separation of content and presentation.
 - **Styling Properties**: Experimented with CSS properties such as color, background color, and typography.
 - **Web-Safe Fonts**: Utilized web-safe fonts to ensure consistent text rendering across different devices.
+- **Box Model**: Applied the box model principles to improve the layout and spacing of elements on the homepage.
 
 ### Project Organization
 
@@ -73,6 +79,6 @@ This project includes:
 
 ## Conclusion
 
-This project has been an excellent introduction to web development with The Odin Project. Adding CSS to style the pages has been a valuable learning experience. I am excited to build on these skills and take on more complex projects in the future. Thank you for checking out my work!
+This project has been an excellent introduction to web development with The Odin Project. Adding CSS to style the pages and improving the layout using the box model has been a valuable learning experience. I am excited to build on these skills and take on more complex projects in the future. Thank you for checking out my work!
 
 Feel free to explore the project and reach out if you have any feedback or questions.
